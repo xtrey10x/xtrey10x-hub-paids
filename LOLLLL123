@@ -1,5 +1,5 @@
-if game.placeId == 2883208470 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/sh0002nen%202"))()
+if game.placeId == 2883208470 or game.placeId == 2883208470 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/GpoPaid1223dfgt"))()
 end
 if game.placeId == 2883208470 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/sh0002nen%202"))()
