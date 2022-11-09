@@ -1,4 +1,4 @@
-if game.placeId == 2883208470 or game.placeId == 11424731604 then
+if game.placeId == 2883208470 or game.placeId == 11424731604 or game.placeId == 6360478118 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub-paids/main/GpoPaid1223dfgt"))()
 end
 if game.placeId == 2883208470 then
