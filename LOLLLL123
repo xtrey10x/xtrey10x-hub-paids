@@ -1,7 +1,6 @@
 if game.placeId == 2883208470 or game.placeId == 11424731604 or game.placeId == 6360478118 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub-paids/main/GpoPaid1223dfgt"))()
 end
-
 if game.placeId == 2883208470 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/sh0002nen%202"))()
 end
@@ -19,9 +18,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub
 end
 if game.PlaceId == 10266164381 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/xtrey10xhubbloodlines3"))()
-end
-if game.PlaceId == 3978370137 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/Xtrey10xGpo"))()
 end
 if game.PlaceId == 6152116144 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/xtrey10x-Projectslaers13453fg.lua"))()
